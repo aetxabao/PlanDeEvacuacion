@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pmdm.plandeevacuacion.InicioActivity">
+
+    <TextView
+        android:id="@+id/AppTitle"
+        android:onClick="jugar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="100sp"
+        android:textColor="@color/blue"
+        android:text="@string/app_title"
+        android:background="@drawable/patio"/>
+        <!--android:background="@drawable/explosion" -->
+
+</RelativeLayout>

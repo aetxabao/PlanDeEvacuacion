@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emergency evacuation plan</string>
+    <string name="app_title">Emergency evacuation plan</string>
+    <string name="level_title">Next level</string>
+    <string name="press_to_continue">press to continue</string>
+    <string name="game_over_title">GAME OVER</string>
+    <string name="press_to_return">press to return</string>
+</resources>

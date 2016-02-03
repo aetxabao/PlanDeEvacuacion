@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plan de Evacuación</string>
+    <string name="app_title">Plan de Evacuación</string>
+    <string name="level_title">Fase superada</string>
+    <string name="press_to_continue">pulse para continuar</string>
+    <string name="game_over_title">FIN</string>
+    <string name="press_to_return">pulse para regresar</string>
+</resources>
